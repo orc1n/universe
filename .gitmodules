@@ -1,0 +1,3 @@
+[submodule "earth"]
+	path = earth
+	url = git@github.com:orc1n/earth.git
